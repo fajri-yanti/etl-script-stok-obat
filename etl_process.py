@@ -3,7 +3,7 @@ import psycopg2
 from sqlalchemy import create_engine
 pd.set_option('future.no_silent_downcasting', True)
 
-file_path = r'D:\portofolio\Stok Obat\dataset\REKAP HARIAN UMUM 2023.xlsx'
+file_path = r'D:\portofolio\Stok Obat\dataset\file.xlsx'
 year = '2023-' #Ganti sesuai tahun
 sheet_name = 'DESEMBER' #Ganti sesuai nama sheet a.k.a bulan
 keyword = 'SISA AKHIR'
