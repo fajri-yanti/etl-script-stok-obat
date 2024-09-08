@@ -33,7 +33,7 @@ Before running the script, update the following variables in the code:
 Run the script using Python:
 
 ```
-python script_name.py
+python etl_process.py
 ```
 
 ## Functionality
